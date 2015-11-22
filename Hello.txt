@@ -1,10 +1,10 @@
-print ("Hello WOrld")
-print ("Hello all")
+print ("Hello WOrld");
+print ("Hello all");
 <<<<<<< HEAD
 
-print ("Hello all34")
+print ("Hello all34");
 =======
-print ("Hello al2l")
+print ("Hello al2l");
 >>>>>>> feature_goodbye
 
 print ("Hello my") 
